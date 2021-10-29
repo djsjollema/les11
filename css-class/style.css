@@ -2,3 +2,11 @@ body{
     background-color: #ffd200;
     color: #9c5708
 }
+
+.cheat{
+    border: #773b2f 5px solid;
+    background-color: #f79762;
+    color: #f05133;
+    padding: 20px;
+    margin: 20px;
+}
